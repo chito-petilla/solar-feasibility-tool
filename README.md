@@ -16,7 +16,7 @@ It is designed as a decision-support tool for energy analysis and sustainability
 &nbsp;•	ROI/payback period estimation 
 
 ## Calculation Logic
-The system uses a simplified financial model: 
+The system uses a simplified financial model:   
 &nbsp;•	Monthly Savings = Energy Usage × Electricity Rate × Efficiency   
 &nbsp;•	Annual Savings = Monthly Savings × 12   
 &nbsp;•	ROI (Payback Period) = System Cost ÷ Annual Savings   
@@ -28,11 +28,11 @@ This provides a high-level feasibility estimate for solar investment decisions.
 &nbsp;•	JavaScript (Vanilla)  
 
 ## Project Structure
-solar-roi-calculator/
-│
-├── index.html
-├── script.js
-├── style.css
+solar-roi-calculator/  
+│   
+├── index.html   
+├── script.js  
+├── style.css   
 
 ## Key Features
 &nbsp;•	Interactive ROI calculator interface  
